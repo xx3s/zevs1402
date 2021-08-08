@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zevs1402 
-- 🌱 I’m currently learning JavaScript & Python
-- 📫 You can reach me via Discord: zevs#0002
+- 👋 Pozdrav, ja sam x3s.
+- 🌱 Trenutno učim C#, C++ i JavaScript.
+- 📫 Discord: x3s#1337
 
 <!---
 zevs1402/zevs1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
